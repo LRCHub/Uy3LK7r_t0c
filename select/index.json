@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Get Lady",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-06T10:15:49.641320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Lady",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/01_Get_Lady_Suchmos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GET LADY",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_GET_LADY_Suchmos.txt"
+    }
+  ]
+}
